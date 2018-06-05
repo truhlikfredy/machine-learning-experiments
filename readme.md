@@ -17,3 +17,14 @@ They are jupyter notebooks so after installing dependancies it should be enough 
 ```
 jupyter notebook
 ```
+
+
+# FAQ
+
+## Changing default jupyter browser:
+
+For automatically started browser:
+https://stackoverflow.com/questions/35229604/how-to-change-the-default-browser-used-by-the-ipython-jupyter-notebook-in-linux
+
+For links detected inside the console output:
+https://askubuntu.com/questions/620955/how-to-change-priorities-of-x-www-browser
