@@ -28,3 +28,10 @@ https://stackoverflow.com/questions/35229604/how-to-change-the-default-browser-u
 
 For links detected inside the console output:
 https://askubuntu.com/questions/620955/how-to-change-priorities-of-x-www-browser
+
+## Reading CSV with tensor:
+
+https://learningtensorflow.com/ReadingFilesBasic/
+
+https://www.tensorflow.org/api_docs/python/tf/decode_csv
+
