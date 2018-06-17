@@ -8,6 +8,14 @@ Data are based from kaggle.com but they are the famous titanic and mnist data-se
 pip install tensorflow
 pip install matplotlib
 pip install jupyter
+
+# dependancies of titanic example
+pip install -U numpy
+pip install -U seaborn
+pip install -U sklearn
+pip install -U pandas
+pip install -U pandas_ml
+pip install -U numexpr
 ```
 
 # How to run
