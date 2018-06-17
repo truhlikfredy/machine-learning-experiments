@@ -1,1 +1,4 @@
 *.md~
+*-checkpoint.ipynb
+/**/checkpoint
+/out/
